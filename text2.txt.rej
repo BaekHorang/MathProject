@@ -1,0 +1,5 @@
+diff a/text2.txt b/text2.txt	(rejected hunks)
+@@ -3 +4,3 @@
++conflict
++
+ text 2 test!
